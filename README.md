@@ -1,5 +1,7 @@
 # Arduino Additional Sensors Library
 
+[![View Arduino Additional Sensors Library (DHT, LPS331) on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/62878-arduino-additional-sensors-library-dht-lps331)
+
 Work with additional sensors
 
 ## Supported sensors
